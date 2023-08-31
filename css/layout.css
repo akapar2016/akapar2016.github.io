@@ -309,7 +309,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .TotalHours {
-  	width: 73%;
+  	width: 52%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
@@ -319,7 +319,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: illustrator 2s ease;
 }
 .PIC {
-  	width: 63%;
+  	width: 48%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
@@ -329,7 +329,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: css 2s ease;
 }
 .MultiEngine {
-  	width: 50%;
+  	width: 90%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
@@ -337,7 +337,7 @@ ul#nav li.current a { color: #F06000; }
 
 @-moz-keyframes TotalHours {
   0%   { width: 0px;  }
-  100% { width: 73%;  }
+  100% { width: 52%;  }
 }
 @-moz-keyframes XC {
   0%   { width: 0px;  }
@@ -345,7 +345,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes PIC {
   0%   { width: 0px;  }
-  100% { width: 63%;  }
+  100% { width: 48%;  }
 }
 @-moz-keyframes Instrument {
   0%   { width: 0px;  }
@@ -353,13 +353,13 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes MultiEngine {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 90%;  }
 }
 
 
 @-webkit-keyframes TotalHours {
   0%   { width: 0px;  }
-  100% { width: 73%;  }
+  100% { width: 52%;  }
 }
 @-webkit-keyframes XC {
   0%   { width: 0px;  }
@@ -367,7 +367,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes PIC {
   0%   { width: 0px;  }
-  100% { width: 63%;  }
+  100% { width: 48%;  }
 }
 @-webkit-keyframes Instrument {
   0%   { width: 0px;  }
@@ -375,7 +375,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes MultiEngine {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 90%;  }
 }
 
 
